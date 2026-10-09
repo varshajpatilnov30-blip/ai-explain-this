@@ -1,0 +1,27 @@
+DEPARTMENT OF TECHNICAL EDUCATION & INDUSTRY PARTNERSHIPS
+APEX TECHNICAL UNIVERSITY
+
+NOTICE
+Sub: SAP Hackfest 2026 — Student Participation & Registration
+
+This is to inform all pre-final and final year students of B.Tech (CSE, IT, ECE) and M.Tech programs that Apex Technical University has been selected as an official academic partner for the SAP Hackfest 2026, a national-level technology competition organized by SAP Labs India in association with NASSCOM FutureSkills.
+
+ABOUT THE EVENT:
+SAP Hackfest 2026 is a 48-hour hackathon focused on building enterprise solutions using SAP BTP (Business Technology Platform), SAP Fiori, and AI-powered analytics. Participating teams will compete for prizes worth Rs. 5,00,000 and internship opportunities with SAP Labs India.
+
+REGISTRATION DETAILS:
+The SAP registration deadline is 10 October 2026. Students must complete their registration by 10 October 2026 via the official university industry portal (industry.apexuniv.ac.in/sap-hackfest-2026). Teams must consist of 3 to 5 members from the same institution.
+
+ELIGIBILITY:
+- Minimum CGPA of 7.0 required for participation.
+- Students with active backlogs in more than 2 subjects are not eligible.
+- Each student can register for only one team.
+
+IMPORTANT INFORMATION:
+- Shortlisted teams will be notified by October 14, 2026 via registered email.
+- The hackathon will be conducted in hybrid mode (online + onsite at SAP Labs, Bengaluru) from October 22–24, 2026.
+- A mandatory orientation webinar will be held on October 16, 2026. Attendance is compulsory.
+
+FACULTY COORDINATOR:
+Dr. Meena Kulkarni, Department of CSE
+Email: meena.kulkarni@apexuniv.ac.in | Ext: 2204
